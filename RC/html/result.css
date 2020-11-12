@@ -35,7 +35,7 @@ footer {
   border: 2px #30E7ED solid;
   border-radius: 10px;
   overflow-y: auto;
-  margin-left: 17.6vw;
+  margin-left: 3.2vw;
 }
 #sponsortitle{
   height: 7vh;
@@ -52,8 +52,8 @@ footer {
 
 }
 #maincol{
-  height: 86.2vh;
-  margin-top: -8.8vh;
+  height: 82.2vh;
+  margin-top: 6.3vh;
 
 }
 #clashinfo{
@@ -62,7 +62,7 @@ footer {
   border: 2px #30E7ED solid;
   border-radius: 10px;
   overflow-y: auto;
-  margin-left: 17.6vw;
+  margin-left:1.4vw;
 }
 p{
   margin-left: 1vw;
@@ -112,8 +112,9 @@ p{
    border-radius:92%;
    width:92px;
    height:92px;
-   background-color:#30E7ED;
-
+   background-color:#262626;
+   border:2px solid #30E7ED ;
+   color: white;
    line-height:29px;
    text-align:center;
    padding-top: 1vh;
